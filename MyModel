@@ -1,0 +1,11 @@
+import React from 'react';
+
+const MyModel = () => {
+  return (
+    <div>
+      <h1>My Model</h1>
+    </div>
+  );
+};
+
+export default MyModel;
